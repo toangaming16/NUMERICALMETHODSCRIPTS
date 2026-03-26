@@ -1,5 +1,5 @@
 # NUMERICALMETHODSCRIPTS
-some coding about taylor higher order method, rkf45, abm4/multistep method using streamlit as a frontend and py as backend - hcmut -8.5 (Mrs Hoang Hai Ha verified I guess)
+some coding about taylor higher order method, rkf45, abm4/multistep method using streamlit as a frontend and py as backend - hcmut -10 (Mrs Hoang Hai Ha verified I guess)
 [README.md.md](https://github.com/user-attachments/files/24108673/README.md.md)
 USERGUIDE:
 IN VSC: HOMETOOLBAR -> FIND TERMINAL -> NEWTERMINAL OR ( PRESS CTRL+ SHIFT +` ) for new terminal
