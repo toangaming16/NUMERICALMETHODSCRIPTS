@@ -10,11 +10,22 @@ Install the required dependencies by running:
 
 pip install -r requirements.txt
 
+or try to install the requirement list below:
+pip install -r streamlit
+pip install -r numpy
+pip install -r sympy
+pip install -r matplotlib
+pip install -r pandas
+
 (Dependencies include: streamlit, numpy, pandas, sympy, matplotlib)
 2.Running the Application
 To launch the interface, run the following command in the terminal:
 
 streamlit run app.py
+
+if the apps cant find the path try:
+right click the app.py file then select copy path then paste
+streamlit run (app.py path)
 
 The application will automatically open in your default web browser at http://localhost:8501.
 IF THE FILE DIDN'T WORKED PLEASE CONTACT ME AT: toan.transcendent@hcmut.edu.vn or my personal gmail: toangaming16@gmail.com
